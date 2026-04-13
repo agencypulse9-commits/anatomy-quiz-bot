@@ -16,7 +16,7 @@ from telegram.ext import (
 # =========================
 # TOKEN (KEYIN O‘ZGARTIRASAN)
 # =========================
-BOT_TOKEN = "PASTE_YOUR_TOKEN_HERE"
+BOT_TOKEN = "8739255554:AAFXT8sAitgT_gwI9FCs17crl4w6syLieq4"
 QUESTIONS_FILE = "questions.txt"
 
 logging.basicConfig(level=logging.INFO)
