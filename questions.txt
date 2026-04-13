@@ -1,0 +1,2772 @@
+
+
+Birinchi bo’yin umurtqalarining boshqa umurtqalardan farqi nima?
+=====
+#massa lateralis
+=====
+foveae costales
+=====
+processus accessorius
+=====
+processus transversus
+
+
++++++
+
+
+Chanoqning ichki yuzasidagi mushagi: 
+=====
+#M.psoas major
+=====
+M.vastus interna
+=====
+M.soleus
+=====
+M.sartorius
+
+
++++++
+
+
+Vesica fellea necha qavatdan iborat?
+=====
+4
+=====
+2
+=====
+#3
+=====
+5
+
+
++++++
+
+
+Umurtqalardagi hosilalar nomini ko’rsating.
+1- processus accesorius, 2- foveae costales 3- processus coronoideus, 4- аrcus anterior 5- processus articulares 6- spinae vertebrae
+=====
+#1,2,4,5
+=====
+2,3,5,6
+=====
+3,4,5,6
+=====
+1,3,4,5
+
+
++++++
+
+
+Umurtqadagi qovurg’a o’ymasining lotincha nomini ayting 
+=====
+#foveae costales
+=====
+insicurae vertebralis
+=====
+foramen vertebrae
+=====
+cranium
+
+
++++++
+
+
+Umurtqalararo teshikning lotincha nomini ayting.
+=====
+#foramen intervertebralis
+=====
+foveae costales
+=====
+insicurae vertebralis
+=====
+cranium
+
+
++++++
+
+
+Dumg’aza suyagining lotincha nomini ayting.
+=====
+#os sacrum
+=====
+os coccygeae
+=====
+foveae costales
+=====
+vertebra sacralis
+
+
++++++
+
+
+Dum suyagining lotincha nomini ayting.
+=====
+#os coccygeae
+=====
+os sacrum 
+=====
+foveae costales
+=====
+vertebra sacralis
+
+
++++++
+
+
+Dumg’aza suyagida nima bo’lmaydi?
+=====
+#fovea costales
+=====
+linea transversalis
+=====
+cristae sacralia
+=====
+facies auricularis
+
+
++++++
+
+
+Umurtqa pog’onasida nechta dumg’aza umurtqalari bo’ladi?
+=====
+#4-5
+=====
+6-8
+=====
+6-7
+=====
+6-9
+
+
++++++
+
+
+Umurtqa pog’onasida nechta bo’yin umurtqalari bo’ladi?
+=====
+#7
+=====
+5
+=====
+3-4
+=====
+12
+
+
++++++
+
+
+
+G’alvirsimon suyaklar guruhiga kiruvchi suyakni ko’rsating.
+=====
+#maxilla
+=====
+sternum
+=====
+os temporalis
+=====
+os occipitalis
+
+
++++++
+
+
+G’ovaksimon suyaklar guruhiga kiruvchi suyakni ko’rsating.
+=====
+#sternum
+=====
+scapula
+=====
+os temporalis
+=====
+os occipitalis
+
+
++++++
+
+
+Sesamasimon suyaklar guruhiga kiruvchi suyakni ko’rsating.
+=====
+#patella
+=====
+scapula
+=====
+os temporalis
+=====
+os occipitalis
+
+
++++++
+
+
+Aralash suyaklar guruhiga kiruvchi suyakni ko’rsating.
+=====
+#umurtqa
+=====
+sternum
+=====
+os temporalis
+=====
+os occipitalis
+
+
++++++
+
+
+Chanoq suyagining lotincha nomini ko’rsating?
+=====
+#Os coxae
+=====
+Os pubis
+=====
+Os ilium
+=====
+Pelvis
+
+
++++++
+
+
+Chanoq-son bo’g’imi bo’g’im ichi boylami qaysi?
+=====
+#lig.capitis femoris
+=====
+lig.iliofemorale
+=====
+lig.pubofemorale
+=====
+lig.ischiofemorale
+
+
++++++
+
+
+Art.coxae ni qaysi suyaklar hosil qiladi: 
+=====
+#os coxae va os femoris
+=====
+os ilium va os femoris
+=====
+os pubicum va os coxae
+=====
+os humer va os pubicum
+
+
++++++
+
+
+Art. coxae boylamlari qaysilar?
+=====
+#lig.iliofemorale va lig.pubofemorale
+=====
+lig.sacrofemorale va lig.pubofemorale
+=====
+lig.lumbofemorale va lig.iliofemorale
+=====
+lig. patellae va lig.iliofemorale
+
+
++++++
+
+
+Art.genus ning menisklarini ko’rsating: 1- meniscus medialis, 2- meniscus anterior, 3- meniscus posterior, 4- meniscus lateralis, 5- lig collaterale tibiale, 6- lig cruciatum posterior
+=====
+#1,4
+=====
+4,6
+=====
+5,6
+=====
+2,3
+
+
++++++
+
+
+Art. genus ning tashqi boylamlari qaysilar? 1- lig.sacroiliacum medialis, 2-lig.collaterale fibulare, 3- lig.collaterale femorale, 4- lig.collaterale tibiale, 5-lig.collaterale ulnare, 6-lig.sacroiliacum lateralis
+=====
+#2,4
+=====
+1,5
+=====
+2,3
+=====
+4,6
+
+
++++++
+
+
+Art. genus ning orqa yuzasi boylamlari qaysilar? 1- lig. popliteum rectum, 2- lig.popliteum retinaculum, 3- lig.popliteum obliquum, 4- lig.sacroiliacum lateralis 5- lig. popliteum arcuatum, 6- lig.popliteum retinaculum
+=====
+#3,5
+=====
+1,4
+=====
+2,5
+=====
+5,6
+
+
++++++
+
+
+Art. tibio-fibularisga tegishli boylamlarni ko‘rsating. 1- lig.capitis fibulae medialis, 2- lig.capitis fibulae lateralis, 3- lig.capitis fibulae anterius, 4- lig.sacroiliacum medialis, 5- lig.sacroiliacum lateralis, 6- lig.capitis fibulae posterius
+=====
+#3,6
+=====
+1,4
+=====
+2,6
+=====
+4,5
+
+
++++++
+
+
+Art .talocruralisga tegishli boylamlarni ko‘rsating. 1- lig.collateralae medialae, 2- lig.collateralae laterale, 3- lig.talofibulare mediale, 4- lig.talofibulare anterior, 5- lig.sacroiliacum medialis, 6- lig.sacroiliacum lateralis
+=====
+#1,4
+=====
+2,3
+=====
+4,5
+=====
+5,6
+
+
++++++
+
+
+Tizza qopqog‘ini mustahkamlovchi boylamlar qaysilar? 
+1- retinaculum patellae anterior, 2- retinaculum patellae posterior, 3- retinaculum patellae mediale, 4- lig.sacroiliacum medialis, 5- retinaculum patellae laterale, 6- lig.sacroiliacum lateralis
+=====
+#3,5
+=====
+1,4
+=====
+2,6
+=====
+2,5
+
+
++++++
+
+
+Art. talocalcaneonavicularisga tegishli boylamlar qaysilar.
+1- lig.acromiosternale, 2- lig.talocalcaneum interossem, 3- lig.coracoacromiale, 4- lig.collaterale femorale, 5- lig.talonaviculare, 6- lig.collaterale ulnare
+=====
+#2,5
+=====
+1,3
+=====
+4,6
+=====
+5,6
+
+
++++++
+
+
+Son suyagi, katta boldir suyagi va tizza qopqog’idan hosil bo’lgan bo’g’im qaysi?
+=====
+#articulatio genus
+=====
+articulatio subtalaris
+=====
+articulatio tibiofibularis
+=====
+articulatio calcanea
+
+
++++++
+
+
+Oyoq panjasidagi bo’ylam va ko’ndalang gumbazlar necha yoshgacha shakllanadi?
+=====
+#bolaning 3 yoshigacha
+=====
+bolaning 1 yoshigacha
+=====
+bolaning 2 yoshigacha
+=====
+bolaning 1,5 yoshigacha
+
+
++++++
+
+
+Ayollarda kichik chanoqqa kirish teshigining shakli?
+=====
+#Yumaloq
+=====
+Yuraksimon
+=====
+To’rtburchak
+=====
+Oval
+
+
++++++
+
+
+Katta va kichik boldir suyaklari o’zaro qanday birikadi?
+=====
+uzlukli
+=====
+uzluksiz
+=====
+#uzlukli va uzluksiz
+=====
+boldir suyaklari bir-biri bilan birikmaydi
+
+
++++++
+
+
+Yosh bolalardagi chanoq suyaklarini birikishini ko‘rsating:
+=====
+#sinxondroz
+=====
+mushak yordamida
+=====
+pay yordamida
+=====
+qon-tomir yordamida
+
+
++++++
+
+
+Synarthrosis bu:
+=====
+#uzluksiz birlashuvlar
+=====
+uzlukli birlashuvlar
+=====
+tog‘ay yordamida
+=====
+biriktiruvchi to‘qima
+
+
++++++
+
+
+Sutura bu:
+=====
+#chok
+=====
+pay
+=====
+boylam
+=====
+mushak
+
+
++++++
+
+
+Choklar bo‘ladi:
+=====
+#tishsimon
+=====
+toshsimon
+=====
+yumshoq
+=====
+bodomsimon
+
+
++++++
+
+
+Choklar bo‘ladi:
+=====
+#tangasimon
+=====
+toshsimon
+=====
+yumshoq
+=====
+bodomsimon
+
+
++++++
+
+
+Synostosis bu:
+=====
+uzluksiz birlashuvlar
+=====
+uzlukli birlashuvlar
+=====
+tog‘ay yordamida
+=====
+#suyaklarni birikishi
+
+
++++++
+
+
+Syndesmosis:
+=====
+uzluksiz birlashuvlar
+=====
+uzlukli birlashuvlar
+=====
+tog‘ay yordamida
+=====
+#biriktiruvchi to‘qima
+
+
++++++
+
+
+Chanoqdagi mushaklar birikadigan apofizlar necha yoshda suyaklanadi?
+=====
+#20-25
+=====
+14-16
+=====
+18-19
+=====
+17-18
+
+
++++++
+
+
+Distantia intercristalis yonbosh suyak qirralari orasidagi masofa qancha?
+=====
+#28-29 sm
+=====
+30-32 sm
+=====
+25-27 sm
+=====
+23-25 sm
+
+
++++++
+
+
+Osis ischii va osis pubis orasidagi teshik nomini toping?
+=====
+fossa acetabuli
+=====
+#foramen obturatum
+=====
+foramen acetabuli
+=====
+fossa iliaca
+
+
++++++
+
+
+Foramen obturatorumni hosil qiladigan suyaklar qaysilar?
+=====
+Os ilii et pubis
+=====
+Os ischi et crista minoris
+=====
+#Os ischi et os pubis
+=====
+Os ischi et osilii
+
+
++++++
+
+
+M.pectoralis major qanday vazifani bajaradi.
+=====
+#Qo’lni gavdaga yaqinlashtiradi va ichkariga buradi
+=====
+Qo’lni orqaga tortadi
+=====
+Qovurg’ani tortadi
+=====
+Qo’lni oldinga tortadi va tashqariga buradi 
+
+
++++++
+
+
+Kurakka birikuvchi mushaklar
+=====
+#m.rhomboideus, m.serratus anterior
+=====
+m.iliocostalis, m.iliopsoas
+=====
+m.rotatores, m.rhomboideus
+=====
+m.gluteus minimus, m.subscapularis
+
+
++++++
+
+
+M.intercostalis externus qanday vazifani bajaradi?
+=====
+#qovurg’ani ko’tarib nafas olishda ishtirok etadi
+=====
+qovurg’ani ko’tarib nafas chiqarishda ishtirok etadi
+=====
+qovurg’ani tushirib nafas chiqarishda ishtirok etadi
+=====
+qovurg’ani tushirib nafas olishda ishtirok etadi
+
+
++++++
+
+
+M.pectoralis major faoliyati:
+=====
+#Ko’tarilgan qo’lni tushirib tanaga yaqinlashtiradi, ichkariga buradi
+=====
+Kurakni oldinga va pastga tortadi
+=====
+Qo’lni ko’taradi va kaft sohasida bukishni amalaga oshiradi
+=====
+O’mrov suyagini pastga va ichki tomonga tortadi
+
+
++++++
+
+
+Qaysi mushaklar kurakning medial burchagiga birikadi
+=====
+#M.rhomboideus, m.serratus anterior
+=====
+M.rhomboideus, m.pectoralis minor
+=====
+M.serratus posterior, m.pectoralis minor
+=====
+M.subclavius, m.trapezius, m.pectoralis major
+
+
++++++
+
+
+Diafragmaning qanday qismlari tafovut qilinadi?
+=====
+#To’sh, bel va qovurg’a qismlari
+=====
+Lateral va medial
+=====
+Oldingi, orqa va o’rta qismlar
+=====
+Mushakli, pay va tog’ayli qismlari
+
+
++++++
+
+
+M. pectoralis majorning boshlanish joylari:
+=====
+#Pars sternocostalis II-VII, pars abdominalis, pars clavicularis
+=====
+Pars intercostalis externa, pars intercostalis interna
+=====
+Intercostalis interna, pars brachialis, pars diaphragmatica
+=====
+Pars clavicularis, pars lumbalis
+
+
++++++
+
+
+M.serratus anterior qayerga birikadi?
+=====
+#Kurak suyagini ichki chekkasi va pastki burchagiga
+=====
+Yelka suyagi katta do’mbog’iga
+=====
+Yelka suyagi katta do’mbog’i qirrasiga
+=====
+Kurak suyagini tumshuqsimon o’sig’iga
+
+
++++++
+
+
+M.pectoralis major nechta qismdan iborat 
+=====
+#3
+=====
+4
+=====
+5
+=====
+2
+
+
++++++
+
+
+M. levator scapulae qayerdan boshlanadi?
+=====
+#to’rtta yuqorigi bo’yin umurtqalarining ko’ndalang o’siqchasidan
+=====
+barcha bel umurtqalari orqa yuzasidan
+=====
+yelka suyagining boshidan
+=====
+qovurg’alardan
+
+
++++++
+
+
+Quyidagi mushaklar orasidan gavdani tiklovchi mushaklar guruhiga kiruvchi mushakni toping.
+=====
+#m. iliocostalis
+=====
+m. subscapularis
+=====
+m. teres minor
+=====
+m. interspinales
+
+
++++++
+
+
+Musculi dorsi: 
+=====
+#m.trapezius
+=====
+m.pyramidalis
+=====
+m.pectoralis minor
+=====
+m.gemellus superior
+
+
++++++
+
+
+M.biceps brachii qayerdan boshlanadi?
+=====
+#tuberculum supraglenoidale, processus coracoideus scapulae
+=====
+tuberositas humeri
+=====
+processus coracoideus scapulae
+=====
+tuberositas supraglenoidalis
+
+
++++++
+
+
+M.biceps brachii qayerga yopishadi?
+=====
+#tuberositas radii
+=====
+os humeri
+=====
+tuberositas ulnae
+=====
+membrana interossea
+
+
++++++
+
+
+Yelka kamari mushaklari: 
+=====
+#m.teres major
+=====
+m.biceps brachi
+=====
+m.buccalis
+=====
+m.temporalis
+
+
++++++
+
+
+Yelka kamari mushaklari: 
+=====
+#m.subscapularis
+=====
+m.biceps brachi
+=====
+m.buccalis
+=====
+m.temporalis
+
+
++++++
+
+
+#Yelka kamari mushaklari: 
+=====
+#m.infraspinatus
+=====
+m.biceps brachi
+=====
+m.buccalis
+=====
+m.temporalis
+
+
++++++
+
+
+Yelka mushaklari: 
+=====
+#m.biceps brachii
+=====
+m.teres minor
+=====
+m.infraspinatus
+=====
+m.omohyoideus
+
+
++++++
+
+
+Yelka mushaklari: 
+=====
+#m.anconeus
+=====
+m.teres minor
+=====
+m.omohyoideus
+=====
+m.platysma
+
+
++++++
+
+
+Yelka mushaklari: 
+=====
+#m.brachialis
+=====
+m.teres minor
+=====
+m.pterygoideus lateralis
+=====
+m.cerratus
+
+
++++++
+
+
+Yelkaning oldingi guruh mushaklari: 
+=====
+#m. coracobrachialis
+=====
+m. pronator teres
+=====
+m. palmaris longus
+=====
+m. triceps brachii
+
+
++++++
+
+
+Yelkaning orqa guruh mushaklari: 
+=====
+#m.triceps brachii
+=====
+m.biceps brachii
+=====
+m.deltoideus
+=====
+m.teres minor
+
+
++++++
+
+
+Yelkaning orqa guruh mushaklari: 
+=====
+#m. anconeus
+=====
+m. biceps bracii
+=====
+m. deltoideus
+=====
+m. coracobrachialis
+
+
++++++
+
+
+Bilakning oldingi yuza guruh mushaklari: 
+=====
+#m.pronator teres
+=====
+m.brachioradialis
+=====
+m.extensor carpi radialis
+=====
+m.pronator quadratus
+
+
++++++
+
+
+Bilakning oldingi chuqur guruh mushaklari: 
+=====
+#M.flexor policis longus
+=====
+M.pronator teres
+=====
+M.flexor carpi radialis
+=====
+M.palmaris longus
+
+
++++++
+
+
+Halqumning ko’taruvchi mushaklari:
+=====
+#m stylopharyngeus, m palatopharyngeus
+=====
+mm depressores pharyngis
+=====
+m palatoinguinalis
+=====
+m. talopharyngeus
+
+
++++++
+
+
+Qizilo’ngach qismlari
+=====
+#pars cervicalis
+=====
+pars lumbalis
+=====
+pars pelvina
+=====
+pars oralis
+
+
++++++
+
+
+Quyidagilardan halqum qismlariga tegishli bo’lmagan qismni toping
+=====
+#pars tonsilla
+=====
+pars oralis
+=====
+pars nasalis
+=====
+pars laryngea
+
+
++++++
+
+
+Tubae auditivae halqumning qaysi qismiga ochiladi?
+=====
+#pars nasalis
+=====
+pars oralis
+=====
+pars tonsilla
+=====
+pars esophagus
+
+
++++++
+
+
+Halqumning nechta qisqaruvchi va bo’ylama muskuli mavjud?
+=====
+#qisqaruvchi-3 ta, bo’ylama-2 ta
+=====
+qisqaruvchi-4 ta, bo’ylama-4 ta
+=====
+qisqaruvchi-3 ta, bo’ylama-3 ta
+=====
+qisqaruvchi-4 ta, bo’ylama-5 ta
+
+
++++++
+
+
+Uzuksimon tog’aydan qaysi qisqaruvchi mushak boshlanadi ?
+=====
+#m.pharyngis inferior
+=====
+m.pharyngis superior
+=====
+m.pharyngis anterior
+=====
+m.pharyngis posterior
+
+
++++++
+
+
+Pirogov-Valdeyer halqasini hosil qiluvchi juft murtaklarni aniqlang
+=====
+#tonsillae palatinae, tonsillae tubariae
+=====
+tonsillae lingualis, tonsillae tubariae
+=====
+tonsillae pharyngea, tonsillae palatinae
+=====
+tonsillae hamalus
+
+
++++++
+
+
+Pirogov-Valdeyer halqasini hosil qiluvchi toq murtaklarni aniqlang
+=====
+#tonsillae pharyngea, tonsillae lingualis
+=====
+tonsillae lingualis, tonsillae tubariae
+=====
+tonsillae palatinae, tonsillae tubariae
+=====
+tonsillae hamalus
+
+
++++++
+
+
+Eshituv naylarini boshlanish sohasida qaysi murtak joylashgan?
+=====
+#tonsillae tubariae
+=====
+tonsillae lingualis 
+=====
+tonsillae palatinae
+=====
+tonsilla thamalus
+
+
++++++
+
+
+Qizilo’ngachni qaysi qavati hisobiga unda burmalar hosil bo’ladi ?
+=====
+#tela submucosa
+=====
+tunica mucosa
+=====
+tunica muscularis
+=====
+tunica glandulae
+
+
++++++
+
+
+O’n ikki barmoqli ichakning uzunligi?
+=====
+#25-30 sm
+=====
+15-20 sm
+=====
+30-35 sm
+=====
+10-20 sm
+
+
++++++
+
+
+Yo’g’on ichakning lotincha nomi nima?
+=====
+Intestinum tenue
+=====
+Teniae coli
+=====
+#Intestinum crassum
+=====
+Tunica mucosa
+
+
++++++
+
+
+Yo’g’on ichakning birinchi qismi nima deb ataladi?
+=====
+rectum
+=====
+canalis analis
+=====
+colon descendens
+=====
+#caecum
+
+
++++++
+
+
+Ichakning tuzilishi va funksiyasi uchun kerakli bo’lgan vitamini tanlang:
+=====
+Vitamin A
+=====
+#Vitamin K
+=====
+Vitamin C
+=====
+Vitamin E
+
+
++++++
+
+
+Qorin pardasining yallig’lanishi bu?
+=====
+#Peritonit
+=====
+Apenditsit
+=====
+Xolangit
+=====
+Enterit
+
+
++++++
+
+
+Qorin devorini paypaslab ko’rish usulini kim taqdim etgan?
+=====
+Koxer
+=====
+Bilrot
+=====
+Lamber
+=====
+#Gubarev
+
++++++
+	
+
+Qaysi joyda qorin oq chizig’i o’lchami eng keng bo’ladi?
+=====
+#Kindik sathida
+=====
+Xanjarsimon o’siq ostida
+=====
+Kindikdan 4 sm pastda
+=====
+Qov simfizi ustida
+
+
++++++
+
+
+Agar qorin parda a’zolarni har tomondan o’rasa, ularni qanday a’zolar deb ataymiz?
+=====
+mesoperitoneal
+=====
+#intraperitoneal
+=====
+extraperitoneal
+=====
+adventitial
+
+
++++++
+
+
+Dorsal tutqichning oshqozon bilan qorin bo’shlig’i orqa devori o’rtasidagi qism qanday ataladi?
+=====
+Lateragastrium
+=====
+Perigastrium
+=====
+#Mesogastrium
+=====
+Ostgastrium
+
+
++++++
+
+
+Tojsimon boylami qanday ataladi
+=====
+#Lig. coronarium
+=====
+Lig. falciforme
+=====
+Omentum majus
+=====
+Urachus
+
+
++++++
+
+
+Me’da qorin pardaga nisbatan qanday o‘ralgan?
+=====
+antiperitoneal
+=====
+ekstraperitoneal
+=====
+#intraperitoneal
+=====
+retroperitoneal
+
+
++++++
+
+
+Jigar qorin pardaga nisbatan qanday o‘ralgan?
+=====
+antiperitoneal
+=====
+#mezoperitoneal
+=====
+aperitoneal
+=====
+reperitoneal
+
+
++++++
+
+
+Ingichka ichak qorin pardaga nisbatan qanday o‘ralgan?
+=====
+antiperitoneal
+=====
+ekstraperitoneal
+=====
+#intraperitoneal
+=====
+reperitoneal
+
+
++++++
+
+
+Taloq qorin pardaga nisbatan qanday o‘ralgan?
+=====
+antiperitoneal
+=====
+ekstraperitoneal
+=====
+#intraperitoneal
+=====
+reperitoneal
+
+
++++++
+
+
+Ko‘ndalang chambar ichak qorin pardaga nisbatan qanday o‘ralgan:
+=====
+antiperitoneal
+=====
+ekstraperitoneal
+=====
+#intraperitoneal
+=====
+reperitoneal
+
+
++++++
+
+
+Siydik qopi to‘lmaganda qorin pardaga nisbatan qanday o‘ralgan?
+=====
+antiperitoneal
+=====
+#ekstraperitoneal
+=====
+intraperitoneal
+=====
+reperitoneal
+
+
++++++
+
+
+Siydik qopi to‘lganda qorin pardaga nisbatan qanday o‘ralgan?
+=====
+antiperitoneal
+=====
+#mezoperitoneal
+=====
+intraperitoneal
+=====
+reperitoneal
+
+
++++++
+
+
+O’t pufagining sig’imi qanday (sm³)?
+=====
+#40-70
+=====
+25-30
+=====
+70-90
+=====
+30-40
+
+
++++++
+Umurtqalarda nima bo’lmaydi?
+=====
+#margo
+=====
+arcus
+=====
+incisurae
+=====
+corpus
+
+
++++++
+
+
+Umurtqalarda nima bo’lmaydi?
+=====
+#angulus
+=====
+arcus
+=====
+incisurae
+=====
+corpus
+
+
++++++
+
+
+Umurtqalarda nima bo’lmaydi?
+=====
+#manibrium
+=====
+arcus
+=====
+incisurae
+=====
+corpus
+
+
++++++
+
+
+Bo’yin umurtqalarining boshqa umurtqalarda farqi nima?
+=====
+#foramina processus transversalia
+=====
+foveae costales
+=====
+processus accessorius
+=====
+processus transversus
+
+
++++++
+
+
+Birinchi bo’yin umurtqalarining boshqa umurtqalarda farqi nima?
+=====
+#sulcus a. vertebralis
+=====
+foveae costales
+=====
+processus accessorius
+=====
+processus transversus
+
+
++++++
+
+
+Birinchi bo’yin umurtqalarining boshqa umurtqalarda farqi nima?
+=====
+#arcus posterior
+=====
+foveae costales
+=====
+tuberculum costae
+=====
+processus accessorius
+
+
++++++
+
+
+Chanoq-son bo’g’imi bo’g’im ichi boylami qaysi?
+=====
+#lig.transversum acetabuli
+=====
+lig.transversum genus 
+=====
+lig. cruсiatum anterius 
+=====
+lig. cruсiatum posterius 
+
+
++++++
+
+
+Tizza bo’g’imi ichida nima joylashgan?
+=====
+#meniscus lateralis et medialis
+=====
+labrum glenoidale 
+=====
+labrum acetabulare 
+=====
+lig.capitis femoris 
+
+
++++++
+
+
+Tizza bo’g’imini bo’g’im ichi boylami qaysi?
+=====
+#lig.cruciata genus
+=====
+lig.collaterale tibiale 
+=====
+lig.popliteum arcuatum 
+=====
+lig.capitis femoris 
+
+
++++++
+
+
+Qaysi bo’g’imlar art.tarsi transversa ni hosil qiladi?
+=====
+#art.calcanocuboidea, art.talonaviculare 
+=====
+art.cuneonavicularis, art.talonaviculare 
+=====
+art.calcanocuboidea, art.cuneonavicularis 
+=====
+art.tarsometatarseae, art.cuneonavicularis 
+=====
+
+
++++++
+
+
+Oyoq panjasi gumbazini qaysi boylam mustahkamlaydi?
+=====
+#lig.plantare longum
+=====
+lig.bifurcatum
+=====
+lig.calcanonaviculare 
+=====
+lig.calcanocuboideum 
+
+
++++++
+
+
+Linea nuchae superior ga yopishadi:
+=====
+#m.splenius capitis
+=====
+m.splenius cervicis
+=====
+mm.rotatores
+=====
+m.obliquus capitis superior
+
+
++++++
+
+
+Son kanalini old devorini ko’rsating. 
+=====
+#lig.inguinale va fascia lata ning chekkasi
+=====
+hiatus saphenus 
+=====
+annulus femoralis 
+=====
+v.femoralis
+
+
++++++
+
+
+Son kanalini orqa devori qaysi? 
+=====
+#fascia latae ning chuqur varag’i
+=====
+hiatus saphenus 
+=====
+lig.inguinale va fascia latae chekkasi
+=====
+v.femoralis
+
+
++++++
+
+
+Son kanalini lateral devori qaysi?
+=====
+#v.femoralis
+=====
+hiatus saphenus
+=====
+lig.inguinale va fascia latae chekkasi
+=====
+annulus femoralis 
+
+
++++++
+
+
+Art. sacroilaca ni hosil qiluvchi suyaklarni ko’rsating
+=====
+#os sacrum et os ilium
+=====
+os femoris et os sacrum
+=====
+os pubis et os sacrum
+=====
+os ischii et os ilium
+
+
++++++
+
+
+Quyidagilardan qaysi biri art.sacroilaca ning boylamlari:
+=====
+#lig.sacroiliacum anterius
+=====
+meniscus medialis
+=====
+lig.sacroiliacum medialis
+=====
+lig.sacroiliacum lateralis
+
+
++++++
+
+
+Dumg‘aza-chanoq bo’g’imi qaysi boylam bilan mustahkamlangan?
+=====
+#lig.sacrotuberale
+=====
+meniscus laterialis
+=====
+lig.sacrolumbale 
+=====
+lig.sacrocondulare
+
+
++++++
+
+
+Son suyagining boshchasi kirib turadigan quymich kosasi qaysi javobda ko’rsatilgan?
+=====
+#acetabulum
+=====
+facies lunata
+=====
+os coccygis
+=====
+os sacrum
+
+
++++++
+
+
+Ko’stlar orasidagi masofa (distantia intertrochanterica) necha sm bo’ladi?
+=====
+25-27sm
+=====
+28-30sm
+=====
+#30-32sm
+=====
+33-34sm
+
+
++++++
+
+
+Yonbosh suyagi qirralari o’rtasidagi masofa nima deyiladi?
+=====
+#distantia interspinosa
+=====
+distantia intertrochanterica
+=====
+foramen obturatum
+=====
+distantia intercristalis
+
+
++++++
+
+
+Qov suyagining lotincha nomini ko’rsating?
+=====
+sacrum
+=====
+os ilium 
+=====
+#os pubis
+=====
+os ischi
+
+
++++++
+
+
+Qov suyagining yuqorigi shoxi nima deyiladi?
+=====
+#ramus superior ossis pubis
+=====
+ramus inferior ossis pubis
+=====
+facies symphysialis
+=====
+foramen obturatum
+
+
++++++
+
+
+Birlashuvlar necha xil bo’ladi?
+=====
+8 xil
+=====
+5 xil
+=====
+#3 xil
+=====
+7 xil
+
+
++++++
+
+
+Orqa tomondan chanoq suyaklari dumg’aza suyagi bilan juft dumg’aza yonbosh bo’g’imini hosil qilsa old tomonidan o’zaro birlashib nimani hosil qiladi?
+=====
+dumg’aza yonbosh boylamini
+=====
+#qov simfizini
+=====
+quymichni
+=====
+o’tkir qirrali o’simtani
+
+
++++++
+
+
+Kichik chanoqning yon devorida yopqich teshik joylashgan bo’lib u nima bilan yopiladi?
+=====
+#yopqich parda
+=====
+yopqich nerv
+=====
+qon tomiri
+=====
+to’g’ri javob yo’q
+
+
++++++
+
+
+Chanoq nechta suyakdan iborat?
+=====
+4 ta 
+=====
+#3 ta
+=====
+2 ta
+=====
+1 ta
+
+
++++++
+
+
+Chanoq suyagining quymich kosasi bilan son suyagining boshchasi birlashuvidan nima hosil bo’ladi?
+=====
+#chanoq-son bo’g’imi
+=====
+dumg’aza
+=====
+son-boldir
+=====
+kosachali bo’g’im
+
+
++++++
+
+
+Yonbosh-son boylamlarining qalinligi qancha?  
+=====
+2 sm  
+=====
+#1 sm  
+=====
+3 sm
+=====
+2,5 sm
+
+
++++++
+
+
+Qov-son boylami qanday shaklga ega? 
+=====
+#uchburchak
+=====
+to’rtburchak
+=====
+trapetsiya
+=====
+silindr
+
+
++++++
+
+
+Odam gavdasidagi eng katta bo’g’im qaysi?
+=====
+#articulatio genus
+=====
+articulatio subtalaris
+=====
+articulatio tibiofibularis
+=====
+articulatio calcanea
+
+
++++++
+
+
+M.pectoralis minor qayerga birikadi?
+=====
+#processus coracoideus   
+=====
+tuberculum majus humeri 
+=====
+acromion
+=====
+crista tuberculi minoris
+
+
++++++
+
+
+Linea arcuata vazifasi:
+=====
+Yonbosh suyagi birikishidan hosil bo'lgan tepalik
+=====
+Os iliumning qanot qismi
+=====
+#Katta va kichik chanoqni chegaralashdagi anatomik hosila
+=====
+Os pubisning yopqich qismi 
+
+
++++++
+
+
+Facies lunata orqali qaysi suyaklar o’rtasida bo’g’im bo'ladi:
+=====
+#Chanoq va son
+=====
+O’tirgich va qov
+=====
+Qov va yonbosh
+=====
+Yonbosh va son
+
+
++++++
+
+
+Corpus ilii qaysi anatomik hosila hosil bo’lishida qatnashadi:
+=====
+#Acetabulum
+=====
+Foramen obturatum
+=====
+Facies glutea
+=====
+Spina iliaca anterior inferior
+
+
++++++
+
+
+Quymich kosachasining pastki qismini hosil qiluvchi, corpus va ramus qismlari dan tashkil topgan suyak:
+=====
+Os femur
+=====
+#Os ischi
+=====
+Os ilii
+=====
+Os zygomaticum
+
+
++++++
+
+
+Chanoq suyagidagi yonbosh, qov, quymich suyaklari necha yoshgacha oʻzaro togʻay vositasida birikkan boʻladi.
+=====
+12
+=====
+14
+=====
+#16
+=====
+18
+
+
++++++
+
+
+Chanoq suyagining yonbosh suyak qismida nechta a)qirra va b)oʻtkir qirralari boʻladi.
+=====
+a-3 ta va b-4 ta
+=====
+#a-4 ta va b-3 ta
+=====
+a-3 ta va b-3 ta
+=====
+a-4 ta va b-4 ta
+
+
++++++
+
+
+Qoʻshimcha suyaklanish nuqtalari chanoq suyagi bilan necha yoshda qoʻshiladi.
+=====
+#22-25
+=====
+15-17
+=====
+17-19
+=====
+19-21
+
+
++++++
+
+
+Son suyagining boʻyinchasi suyak tanasiga necha gradus burchak hosil qilib qoʻshilgan?
+=====
+#130°
+=====
+90°
+=====
+140°
+=====
+120°
+
+
++++++
+
+
+Katta va kichik chanoq bo’shlig’ini bir-biridan nima ajratib turadi?
+=====
+linea glutea anterior    
+=====
+linea glutea posterior
+=====
+#linea arcuata
+=====
+linea intermedia
+
+
++++++
+
+
+Diafragmada qanday toq teshiklar bor?
+=====
+#aorta, pastki kovak vena va qizilo’ngach o’tadigan
+=====
+jigar venasi, qizilo’ngach va pastki kovak vena 
+=====
+arteriya va vena 
+=====
+venoz va qizilo’ngach
+
+
++++++
+
+
+#Katta ko’krak mushagi qayerga birikadi?
+=====
+#crista tuberculi majoris
+=====
+processus corocoideus              
+=====
+crista tuberculi minoris     
+=====
+tuberculum majus humeri
+
+
++++++
+
+
+M.subclaviusning faoliyati nimadan iborat?
+=====
+#o‘mrov suyagini ichki tarafga va pastga tortish
+=====
+kurakning ostki burchagini oldinga tortish
+=====
+kurakning ostki burchagini lateral tomonga tortish
+=====
+qovurg’alarni pastga tortish
+
+
++++++
+
+
+Moslikni tanlang: A) orqaning yuza mushaklari. B) orqaning chuqur qavat mushaklari.
+1) m.latissimus dorsi, 2) m.interspinales, 3) mm.multifidi, 4) m.splenius capitis, 
+5) m.levator scapulae, 6) m.trapezius
+=====
+#A) 1,5,6   B) 2,3,4
+=====
+A) 2,3,4   B) 1,5,6
+=====
+A) 5,6   B) 1,2,3,4
+=====
+A) 1,2,3,5   B) 4,6
+
+
++++++
+
+
+Moslikni belgilang: A) gavdani tiklovchi mushak. B) ko’ndalang-qirrali mushak. 
+1) mm.semispinalis. 2) m.iliocostalis. 3) mm.multifidi. 4) m.longissimus. 5) mm.rotatoris. 6) m.spinalis capitis.
+=====
+#A) 1,3,5   B) 2,4,6
+=====
+A) 2,4,6   B) 1,3,5
+=====
+A) 1,2,5   B) 3,4,6
+=====
+A) 2,3,5   B) 1,4,6
+
+
++++++
+
+
+Mushaklarni qavatlarini ketma-ketligini tanlang: 
+1. m.levator scapulae 
+2. m.latissimus dorsi
+3. mm.rhomboidei 
+4. mm.serratus posterior
+5. m.trapezius
+=====
+#5,2,1,3,4
+=====
+3,2,4,1,5
+=====
+1,3,2,4,5
+=====
+1,2,4,3,5
+
+
++++++
+
+
+Mushaklarni qavatlarini ketma-ketligini tanlang:
+1. kurakni ko’taruvchi 
+2. orqaning serbar mushagi 
+3. rombsimon mushaklar 
+4. orqaning yuqori va pastki tishsimon mushaklari
+5. trapetsiyasimon mushak
+=====
+#5,2,1,3,4
+=====
+3,2,4,1,5
+=====
+1,3,2,4,5
+=====
+1,2,4,3,5
+
+
++++++
+
+
+Qaysi mushak kurakning medial qirg’og’iga birikadi?
+=====
+#m.rhomboideus
+=====
+m.longissimus
+=====
+m.spinalis
+=====
+m.pectoralis major
+
+
++++++
+
+
+Mm.erector spinae tarkibiga kiradi:
+=====
+#M.iliocostalis, m.spinalis, m.longissimus
+=====
+M.interspinatus, m.teres minor 
+=====
+M.spinalis, m.rectus capitis
+=====
+M.serratus anterior, m.iliocostalis
+
+
++++++
+
+
+Orqaning serbar mushagini vazifasi nima?
+=====
+#Qo’lni orqaga va pastga cho’zadi
+=====
+Qo’lni erkin qismini ko’taradi va pronatsiyalaydi
+=====
+Qo’lni erkin qismini supinatsiya qiladi
+=====
+Kurakni ko’taradi
+
+
++++++
+
+
+M.transversospinalis tarkibiga kiradi:
+=====
+#Mm.rotatores, m.semispinalis
+=====
+Mm.multifidi, m.iliocostalis
+=====
+M.rectus capitis posterior major, m.spinalis
+=====
+M.longissimus, mm.multifidi
+
+
++++++
+
+
+M.latissimus dorsi tananing qaysi joyiga birikadi?
+=====
+#yelka suyagining kichik do’mboqcha qirrasiga
+=====
+yelka suyagining boshiga
+=====
+kurak suyagiga
+=====
+acromionga
+
+
++++++
+
+
+Tanani yon tarafga burish va oxirgi qovurg’ani tushirish vazifasini bajaruvchi mushakni belgilang.
+=====
+#m. quadratus lumborum
+=====
+m. erector spinae
+=====
+m. trapezius
+=====
+m. levator scapulae
+
+
++++++
+
+
+Chanoqning ichki yuzasidagi mushagi: 
+=====
+#M.psoas minor
+=====
+M.vastus lateralis
+=====
+M.gastrocnemius
+=====
+M.transversus abdominis
+
+
++++++
+
+
+Chanoqning ichki yuzasidagi mushagi: 
+=====
+#M.iliacus
+=====
+M.anconeus
+=====
+M.gluteus maximus
+=====
+M.lumbricalis
+
+
++++++
+
+
+Chanoqning tashqi yuzasidagi mushagi: 
+=====
+#M.gluteus maximus
+=====
+M.psoas major
+=====
+M.iliopsoas
+=====
+M.psoas minor
+
+
++++++
+
+
+Chanoqning tashqi yuzasidagi mushagi:  
+=====
+#m.gluteus medius
+=====
+m.psoas major
+=====
+m.iliopsoas
+=====
+m.psoas minor
+
+
++++++
+
+
+Chanoqning tashqi yuzasidagi mushagi:  
+=====
+#M.gluteus minimus
+=====
+M.coxae extensor
+=====
+M.iliopsoas
+=====
+M.psoas minor
+
+
++++++
+
+
+M.piriformis birikadi:
+=====
+#Trochanter major
+=====
+Linea nuchae
+=====
+Linea aspera
+=====
+Foramen ishchiadicum majus
+
+
++++++
+
+
+M.obturatorius internus birikadi: 
+=====
+#Fossa trochanterica
+=====
+Crista intertrochanterica
+=====
+Linea trochanterica
+=====
+Spina iliaca anterior superior
+
+
++++++
+
+
+M.gemellus inferior boshlanadi: 
+=====
+#Tuber ishchiadicum
+=====
+Fossa trochanterica
+=====
+Tuberositas tibiae
+=====
+Tuberculum majus
+
+
++++++
+
+
+M.gemellus inferior birikadi: 
+=====
+#Fossa trochanterica
+=====
+Linea aspera
+=====
+Trochanter minor
+=====
+Foramen ishchiadicum majus
+
+
++++++
+
+
+Chanoqning tashqi yuzasidagi mushagi: 
+=====
+#m.tensor faciae latae, m.gluteus minimus
+=====
+m.gluteus medius, m.coxae extensor
+=====
+m.piriformis, m.iliopsoas
+=====
+m.psoas minor, m.iliopsoas
+
+
++++++
+
+
+Chanoqning tashqi yuzasidagi mushagi:  
+=====
+#m.quadratus femoris, m.gemellus inferior
+=====
+m.gluteus medius, m.coxae extensor
+=====
+m.piriformis, m.iliopsoas
+=====
+m.psoas minor, m.iliopsoas
+
+
++++++
+
+
+M.vastus medialis birikadi: 
+=====
+#Tuberositas tibiae
+=====
+Linea vastus
+=====
+Linea spera
+=====
+Tuberositas fibulae
+
+
++++++
+
+
+Halqumning qaysi qismlari nafas yo’llariga ochiladi?
+=====
+#pars nasalis
+=====
+pars laryngea
+=====
+pars oralis
+=====
+pars cervicalis
+
+
++++++
+
+
+Halqumning qanday guruh mushaklari bor? 
+=====
+#mm. constrictores pharyngis
+=====
+mm. tensores pharyngis
+=====
+mm. depressores pharyngis
+=====
+mm. latissimus pharyngis
+
+
++++++
+
+
+Ichki shilliq qavat?
+=====
+#tunica mucosa
+=====
+stratum circulare
+=====
+glandula eintestinales
+=====
+lymphatici aggregati
+
+
++++++
+
+
+Yo’g’on ichak qayerda joylashgan?
+=====
+ko’krak qafasi va qorin boshlig’ida
+=====
+#qorin bo’shlig’ida va tos bo’shlig’ida
+=====
+tos bo’shlig’ida
+=====
+ko’krak qafasida
+
+
++++++
+
+
+Yo’g’on ichak lentalari?
+=====
+#tenia coli
+=====
+tenia mesocolica
+=====
+tenia libera 
+=====
+tenia omentalis
+
+
++++++
+
+
+Tenia omentalis qayerda joylashgan?
+=====
+#yo’g’on ichakning old yuzasida
+=====
+yo’g’on ichakning orqa yuzasida
+=====
+yo’g’on ichakning pastki yuzasida
+=====
+yo’g’on ichakning tepa yuzasida
+
+
++++++
+
+
+Ko’richak qayerda joylashgan?
+=====
+chap yonbosh chuqurchasida
+=====
+#o’ng yonbosh chuqurchasida
+=====
+o’n ikki barmoq ichak pastki qismida
+=====
+lentasimon o’simtaning ichida
+
+
++++++
+
+
+Yonbosh ichakning ko’richakka o’tish qismi?
+=====
+#ostium ileocaecale
+=====
+haustrae coli
+=====
+colon transversum
+=====
+flexura coli sinistra
+
+
++++++
+
+
+Jigarning diafragma bilan tutashgan sathi?
+=====
+facies visceralis
+=====
+#facies diaphragmatica
+=====
+facies hepatis 
+=====
+facies triangulare
+
+
++++++
+
+
+Jigarning qanday sathlari mavjud?
+=====
+o’ng va chap
+=====
+diafragmatik va o’ng taraf
+=====
+#diafragmatik va visseral
+=====
+faqat chap tomon
+
+
++++++
+
+
+O‘t pufagi lotincha qanday nomlanadi?
+=====
+haustrae coli
+=====
+#vesica fellea
+=====
+pancreas
+=====
+peritoneum
+
+
++++++
+
+
+Oshqozon osti bezi qonga nimani ajratadi?
+=====
+vitaminlar
+=====
+safro
+=====
+#insulin
+=====
+jinsiy gormonlar
+
+
++++++
+
+
+Eng uzun yo’g’on ichak qaysi?
+=====
+Colon ascendens
+=====
+#Colon transversum
+=====
+Colon descendens
+=====
+Colon sigmoideum
+
+
++++++
+
+
+Oshqozon osti bezining uzunligi?
+=====
+#12-15 sm
+=====
+20-25 sm
+=====
+5-7 sm
+=====
+30-40 sm
+
+
++++++
+
+
+Mezenteriya ovqat hazm qilish tizimining qaysi qismida joylashgan?
+=====
+qorincha
+=====
+#o’n ikki barmoqli ichak
+=====
+ko’richak
+=====
+yo’g’on ichak
+
+
++++++
+
+
+Qaysi bo’lim sigmoideum dan keyin boshlanadi?
+=====
+yonbosh ichak
+=====
+#to’g’ri ichak
+=====
+ko’richak
+=====
+och ichak
+
+
++++++
+
+
+Pariyetal qorin parda nima bilan qo’shilib 5 ta burmani hosil qiladi?
+=====
+#qov simfizi
+=====
+diafragma
+=====
+oshqozon
+=====
+kindik
+
+
++++++
+
+
+Qorinning oldingi devorini qaysi parda qoplagan?
+=====
+#pariyetal
+=====
+visseral
+=====
+duplikatura
+=====
+tela subserosa
+
+
++++++
+
+
+Qorin pardaning yuqori qavatida qaysi qopcha hosil bo’ladi?
+=====
+jigar
+=====
+me’da oldi
+=====
+#charvi
+=====
+buyrak
+
+
++++++
+
+
+Qorin pardaning pastki qismi qaysi bo’shliqqa to’g’ri keladi?
+=====
+#kichik chanoq
+=====
+plevral bo’shliq
+=====
+qorin
+=====
+me’da usti
+
+
++++++
+
+
+Ayollarda qorin orqa devoridagi chuqurchada to’g’ri ichak bilan siydik pufagidan tashqari yana nima aniqlanadi?
+=====
+ingichka ichak
+=====
+#bachadon
+=====
+tuxumdon
+=====
+mushak
+
+
++++++
+
+
+Intraperitoneal bo’lmagan a’zoni toping?
+=====
+me’da
+=====
+taloq
+=====
+#bachadon
+=====
+jigar
+
+
++++++
+
+
+Qorin parda hamma tomonini o’rab olgan organga nima deyiladi?
+=====
+mezoperitoneal
+=====
+#intraperitoneal
+=====
+ekstraperitoneal
+=====
+anteperitoneal
+
+
++++++
+
+
+Ayollarda qorin parda qovuq bilan bachadon o’rtasida nimani hosil qiladi?
+=====
+excavatio rectouterina
+=====
+#excavatio vesicouterina
+=====
+excavatio rectovesicalis
+=====
+excavatio vesicorectalis
+
+
++++++
+
+
+Buyrak qorin pardaga nisbatan qanday o‘ralgan:
+=====
+antiperitoneal
+=====
+#ekstraperitoneal
+=====
+intraperitoneal
+=====
+reperitoneal
+
+
++++++
+
+
+Erkaklarda moyaklar qorin pardaga nisbatan qanday o‘ralgan:
+=====
+antiperitoneal
+=====
+ekstraperitoneal
+=====
+intraperitoneal
+=====
+#moyakni qorin pardaga aloqasi yo’q
+
+
++++++
+
+
+Chuvalchangsimon o‘simta qorin pardaga nisbatan qanday o‘ralgan:
+=====
+antiperitoneal
+=====
+ekstraperitoneal
+=====
+retroperitoneal
+=====
+#intraperitoneal
+
++++++
+
+
+Ikkinchi bo’yin umurtqalarining boshqa umurtqalarda farqi nima?
+=====
+#dens
+=====
+foveae costales
+=====
+tuberculum costae
+=====
+processus accessorius
+
+
++++++
+
+
+Ikkinchi bo’yin umurtqalarining boshqa umurtqalarda farqi nima?
+=====
+#apex dentis
+=====
+foveae costales
+=====
+tuberculum costae
+=====
+processus accessorius
+
+
++++++
+
+
+Oltinchi bo’yin umurtqalarining boshqa umurtqalarda farqi nima?
+=====
+#tuberculum caroticum
+=====
+foveae costales
+=====
+tuberculum costae
+=====
+processus accessorius
+
+
++++++
+
+
+Ko’krak umurtqalarining boshqa umurtqalardan farqi nima?
+=====
+#foveae costales
+=====
+tuberculum anterior et posterior
+=====
+foramina processus transversalia
+=====
+processus accessorius
+
+
++++++
+
+
+Bel umurtqalarining boshqa umurtqalarda farqi nima? 1- tanasi katta, 2- processus accessorius bor, 3- foveae costales bor, 4- tuberculum anterior et posterior bor, 5- processus mamillaris, 6- foramina processus transversalia bor.
+=====
+#1,2,5
+=====
+1,3,6
+=====
+2,3,4
+=====
+1,3,5
+
+
++++++
+
+
+Bel umurtqalarining boshqa umurtqalarda farqi nima?  
+1- processus costarius bor, 2- tanasi katta, 3- processus accessorius bor, 4- processus mamillaris,-processus costarius, 5- tuberculum anterior et posterior bor, 6- foveae costales bor 7- foramina processus transversalia bor
+=====
+#1,2,3,4
+=====
+1,3,4,6
+=====
+2,3,4,5
+=====
+4,5,6,7
+
+
++++++
+
+
+Qaysi hosila birinchi bo’yin umurtqasida bo’ladi?
+1- massa lateralis, 2- tuberculum anterior, 3- processus accessorius, 4- arcus anterior, 5- dens, 6- processus spinosus 7- arcus pasterior, 8- tuberculum posterior  
+=====
+#1,2,4,7,8
+=====
+2,3,4,7,8
+=====
+4,5,6,7,8
+=====
+1,3,4,5,8
+
+
++++++
+
+
+Umurtqa pog’onasidagi fiziologik egriliklar nima deyiladi? 1-lordoz, 2-skolioz, 3-aponevroz, 4- kifoz
+=====
+#1,4
+=====
+1,2
+=====
+2,4
+=====
+1,3
+
+
++++++
+
+
+Umurtqa pog’onasining ko’krak va dumg’aza qismidagi tashqi fiziologik egriliklar nima deyiladi?
+=====
+lordoz
+=====
+skolioz
+=====
+#kifoz 
+=====
+aponevroz
+
+
++++++
+
+
+Umurtqa pog’onasining lotincha nomi nima?
+=====
+#соlumnae vertebralis
+=====
+foramen vertebrae
+=====
+cranium
+=====
+vertebrae
+
